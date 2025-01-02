@@ -8,7 +8,7 @@ image:
   repository: adeways2000/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "12585210378"
+  tag: "12587137418"
 
 ingress:
   enabled: false
