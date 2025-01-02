@@ -14,6 +14,6 @@ The server will start on port 8080. You can access it by navigating to `http://l
 
 ## Looks like this
 
-![image](https://github.com/user-attachments/assets/0e7373b5-ac3a-4fc8-892c-883d0956ecdc)
+![Website](static/images/golang-website.png)
 
 
